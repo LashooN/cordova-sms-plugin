@@ -1,3 +1,5 @@
+This fork adds the READ_PHONE_STATE permission for newer phones.
+
 Notice:
 ====================
 This plugin is one of the examples of the ["JavaScript Mobile Application Development"](https://www.packtpub.com/web-development/javascript-native-mobile-apps-development) book which can be reached at: <br> 
